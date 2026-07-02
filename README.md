@@ -1,2 +1,2 @@
 # clinical-notes-heart-disease-predictions
-A machine learning pipeline for predicting heart disease using clinical data and structured features extracted from medical notes via LLMs. Features 5-fold cross-validation and SHAP interpretability.
+A machine learning pipeline for predicting heart disease using the UCI Cleveland clinical dataset, with 5-fold cross-validation, SHAP interpretability, and an optional LLM feature-extraction proof of concept.
